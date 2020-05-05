@@ -2526,7 +2526,7 @@ input[type="submit"], input[type="reset"], input[type="button"], .button {
     /* -webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out; */
     -ms-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
     /* transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out; */
-    background: #544d55;
+    background: #5f7773;
     /* border-radius: 4px; */
     /* border: 0; */
     /* color: #ffffff; */
@@ -2547,7 +2547,7 @@ input[type="submit"], input[type="reset"], input[type="button"], .button {
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			background: #6e6570;
+			background: #869C99;
 		}
 
 		input[type="submit"]:active,
@@ -2692,6 +2692,7 @@ input[type="submit"], input[type="reset"], input[type="button"], .button {
 
 		.feature.right {
 			text-align: right;
+			background: #2a3735;
 		}
 
 			.feature.right .image {

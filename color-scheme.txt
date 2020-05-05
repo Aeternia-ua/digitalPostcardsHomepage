@@ -1,0 +1,14 @@
+#01D4B4 - cyan
+#BF692C - brown
+
+#00aD95 - base cyan color
+
+#272622 - dark bg warm
+
+#2a3735 - medium bg cold
+#1B2826 - dark bg cold
+
+#4d5655 - light gray cold
+
+#5f7773 - medium gray (buttons)
+#869C99 - light gray (buttons hover)
