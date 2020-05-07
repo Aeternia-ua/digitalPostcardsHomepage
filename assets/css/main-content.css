@@ -2675,6 +2675,7 @@ input[type="submit"], input[type="reset"], input[type="button"], .button {
 
 		.feature.left {
 			text-align: left;
+			background: #2a3735;
 		}
 
 			.feature.left .image {
@@ -2692,7 +2693,6 @@ input[type="submit"], input[type="reset"], input[type="button"], .button {
 
 		.feature.right {
 			text-align: right;
-			background: #2a3735;
 		}
 
 			.feature.right .image {
@@ -2911,7 +2911,8 @@ input[type="submit"], input[type="reset"], input[type="button"], .button {
 
 			.box {
 				padding: 2.5em;
-				margin-bottom: 4em;
+				/*margin-bottom: 4em;*/
+				margin-bottom: 0;
 			}
 
 		/* Feature */

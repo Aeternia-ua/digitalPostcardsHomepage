@@ -1591,6 +1591,14 @@ input, select, textarea {
     background-position: center;
 }
 
+#collections-cta {
+
+    background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url(../../images/home-page/collections-bg.jpg);
+    /*background-image: radial-gradient(cyan 0%, transparent 55%, salmon 80%), url(../../files/theme_uploads/lviv-histmap.jpeg);*/
+    background-position: center;
+    margin-top: 0;
+}
+
 .feature .image img {
     height: 100%;
 }
